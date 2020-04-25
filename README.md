@@ -8,6 +8,6 @@ Goal : This project will try to find out if building a CNN  model with different
 
 
 Objectives : 
-Collecting the common activation functions related to image classification CNN model from the literature and CNN practices.
-Applying the collected AFs to the CNN model that used to classify images from the CIFAR-10 database.
-Analysing the impact of AF on accuracy and performance and report the results.
+* Collecting the common activation functions related to image classification CNN model from the literature and CNN practices.
+* Applying the collected AFs to the CNN model that used to classify images from the CIFAR-10 database.
+* Analysing the impact of AF on accuracy and performance and report the results.
